@@ -1,12 +1,42 @@
 {
+    "defuse/php-encryption": {
+        "version": "v2.2.1"
+    },
+    "guzzlehttp/guzzle": {
+        "version": "6.3.3"
+    },
+    "guzzlehttp/promises": {
+        "version": "v1.3.1"
+    },
+    "guzzlehttp/psr7": {
+        "version": "1.6.1"
+    },
+    "paragonie/constant_time_encoding": {
+        "version": "v2.2.3"
+    },
+    "paragonie/easyrsa": {
+        "version": "v0.5.2"
+    },
+    "phpseclib/phpseclib": {
+        "version": "2.0.21"
+    },
     "psr/cache": {
         "version": "1.0.1"
     },
     "psr/container": {
         "version": "1.0.0"
     },
+    "psr/http-message": {
+        "version": "1.0.1"
+    },
     "psr/log": {
         "version": "1.1.0"
+    },
+    "ralouphie/getallheaders": {
+        "version": "3.0.3"
+    },
+    "sarciszewski/php-future": {
+        "version": "0.4.2"
     },
     "symfony/cache": {
         "version": "v4.3.2"
@@ -120,6 +150,9 @@
     },
     "symfony/service-contracts": {
         "version": "v1.1.5"
+    },
+    "symfony/var-dumper": {
+        "version": "v4.3.2"
     },
     "symfony/var-exporter": {
         "version": "v4.3.2"
